@@ -1,3 +1,7 @@
+Hi, I'm Jianing! 
+
+I'm Jianing Guo, a first-year student at Cornell University studying Information Science and Global Development.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
